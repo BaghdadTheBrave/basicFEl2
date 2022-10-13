@@ -1,0 +1,34 @@
+
+
+.r1{
+    
+    background-color:#298f8f ;
+    color:#0E0E00;
+}
+.r1:hover{
+    background-color:#0E0E00 ;
+    color:#298f8f;
+}
+.r2{
+    background-color:#f5f529 ; 
+    color: #2317FF;
+}
+.r2:hover{
+    background-color:#2317FF ; 
+    color: #f5f529;
+}
+.rectangle{
+    height: 250px;
+  width: 500px;
+  background-color: white;
+  border: 3px black solid;
+}
+.circle{
+    height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  position: relative;
+  top: 75px;
+  left:200px;
+}
